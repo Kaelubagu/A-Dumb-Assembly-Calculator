@@ -1,1 +1,3 @@
-This is a very basic calculator for my Assembly class. Ended up created it because I was bored and wanted to review on some material.
+## This file contains two calculators
+- A Regular calculator that only handles basic operations in assembly (+ - / *)
+- A joke calculator that returns a very bad joke to you based on what number you pick, which uses loops.
